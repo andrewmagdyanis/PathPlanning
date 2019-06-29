@@ -10,3 +10,16 @@ pub_path_int = rospy.Publisher('path_int',Int32MultiArray, queue_size=10)
 
             #pub_path_int.publish(Int32MultiArray(data = list_goal))
 
+
+
+pub_path_int.publish(Int32MultiArray(data = list_goal))
+        #print "list goal b: ", list_goal
+        #for y in range(m):
+        #	for x in range(n):
+        #		xy = the_map[y][x]
+        #        if xy == 3:
+        #            list_goal.append(x)
+        #            list_goal.append(y)
+        #            print "x,y",x,y
+        #        else: print "error"
+
