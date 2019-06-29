@@ -529,7 +529,7 @@ def map_():
 
 	else:
 		print'waiting robot to move goal'
-
+        ###
         pub_path_int.publish(Int32MultiArray(data= list_goal))
         time.sleep(3)
 
