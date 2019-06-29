@@ -1,0 +1,12 @@
+pub_path_int = rospy.Publisher('path_int',Int32MultiArray, queue_size=10)
+
+ #if xy == 3:
+                #    list_goal.append(x)
+                #    list_goal.append(y)
+                #    print "x,y",x,y 
+               
+
+
+
+            #pub_path_int.publish(Int32MultiArray(data = list_goal))
+

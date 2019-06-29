@@ -1,0 +1,53 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "/home/andrewmagdyanis/swarm_GP_ws/devel/include",
+                "/opt/ros/kinetic/include",
+                "/home/andrewmagdyanis/swarm_GP_ws/src/ackermann_robot/include",
+                "/home/andrewmagdyanis/swarm_GP_ws/src/navigation-kinetic-devel/amcl/include",
+                "/home/andrewmagdyanis/swarm_GP_ws/src/apriltags_ros/apriltags/include",
+                "/home/andrewmagdyanis/swarm_GP_ws/src/apriltags_ros/apriltags_ros/include",
+                "/home/andrewmagdyanis/swarm_GP_ws/src/navigation-kinetic-devel/base_local_planner/include",
+                "/home/andrewmagdyanis/swarm_GP_ws/src/navigation-kinetic-devel/carrot_planner/include",
+                "/home/andrewmagdyanis/swarm_GP_ws/src/navigation-kinetic-devel/clear_costmap_recovery/include",
+                "/home/andrewmagdyanis/swarm_GP_ws/src/control_toolbox-kinetic-devel/include",
+                "/home/andrewmagdyanis/swarm_GP_ws/src/navigation-kinetic-devel/costmap_2d/include",
+                "/home/andrewmagdyanis/swarm_GP_ws/src/image_pipeline-indigo/depth_image_proc/include",
+                "/home/andrewmagdyanis/swarm_GP_ws/src/navigation-kinetic-devel/dwa_local_planner/include",
+                "/home/andrewmagdyanis/swarm_GP_ws/src/gazebo_ros_pkgs/gazebo_plugins/include",
+                "/home/andrewmagdyanis/swarm_GP_ws/src/gazebo_ros_pkgs/gazebo_ros/include",
+                "/home/andrewmagdyanis/swarm_GP_ws/src/gazebo_ros_pkgs/gazebo_ros_control/include",
+                "/home/andrewmagdyanis/swarm_GP_ws/src/navigation-kinetic-devel/global_planner/include",
+                "/home/andrewmagdyanis/swarm_GP_ws/src/image_pipeline-indigo/image_proc/include",
+                "/home/andrewmagdyanis/swarm_GP_ws/src/navigation-kinetic-devel/map_server/include",
+                "/home/andrewmagdyanis/swarm_GP_ws/src/navigation-kinetic-devel/move_base/include",
+                "/home/andrewmagdyanis/swarm_GP_ws/src/navigation-kinetic-devel/move_slow_and_clear/include",
+                "/home/andrewmagdyanis/swarm_GP_ws/src/mrp2_common/mrp2_analyzer/include",
+                "/home/andrewmagdyanis/swarm_GP_ws/src/mrp2_simulator/mrp2_hardware_gazebo/include",
+                "/home/andrewmagdyanis/swarm_GP_ws/src/navigation-kinetic-devel/nav_core/include",
+                "/home/andrewmagdyanis/swarm_GP_ws/src/navigation-kinetic-devel/navfn/include",
+                "/home/andrewmagdyanis/swarm_GP_ws/src/openslam_gmapping-master/include",
+                "/home/andrewmagdyanis/swarm_GP_ws/src/navigation-kinetic-devel/robot_pose_ekf/include",
+                "/home/andrewmagdyanis/swarm_GP_ws/src/navigation-kinetic-devel/rotate_recovery/include",
+                "/home/andrewmagdyanis/swarm_GP_ws/src/image_pipeline-indigo/stereo_image_proc/include",
+                "/home/andrewmagdyanis/swarm_GP_ws/src/navigation-kinetic-devel/voxel_grid/include",
+                "/home/andrewmagdyanis/swarm_GP_ws/src/vrep_plugin/include",
+                "/home/andrewmagdyanis/swarm_GP_ws/src/vrep_plugin_imu/include",
+                "/home/andrewmagdyanis/swarm_GP_ws/src/vrep_plugin_skeleton/include",
+                "/home/andrewmagdyanis/swarm_GP_ws/src/vrep_ros_helper/vrep_ros_common/include",
+                "/usr/include"
+            ],
+            "name": "Linux",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
