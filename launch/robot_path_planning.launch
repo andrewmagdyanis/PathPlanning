@@ -1,0 +1,11 @@
+<launch>
+        <node pkg="robot_path_planning" type="mod_a_star1.py" name="robot1_map" output="screen" />
+        <node pkg="robot_path_planning" type="mod_a_star2.py" name="robot2_map" output="screen"/>
+        <node pkg="robot_path_planning" type="mod_a_star3.py" name="robot3_map" output="screen"/>
+        <node pkg="robot_path_planning" type="mod_a_star4.py" name="robot4_map" output="screen"/>
+        <node pkg="robot_path_planning" type="mod_go1.py" name="go_to_goal1" output="screen"/>
+        <node pkg="robot_path_planning" type="mod_go2.py" name="go_to_goal2" output="screen"/>
+        <node pkg="robot_path_planning" type="mod_go3.py" name="go_to_goal3" output="screen"/>
+        <node pkg="robot_path_planning" type="mod_go4.py" name="go_to_goal4" output="screen"/>
+
+</launch>
